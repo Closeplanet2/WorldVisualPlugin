@@ -1,0 +1,4 @@
+name: WorldVisualPlugin
+version: '${project.version}'
+main: com.pandapulsestudios.worldvisualplugin.WorldVisualPlugin
+api-version: '1.20'
